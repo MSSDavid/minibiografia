@@ -1,0 +1,60 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+    text-align: center;
+}
+
+#nome {
+    position: fixed;
+    right: 0;
+    top: 0%;
+    width: 100%;
+    margin-top: 0;
+    height: 10%;
+    background-color: black;
+}
+
+.abaixo {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 5%;
+    background-color: black;
+}
+
+#perfil {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    text-align: right;
+    float: left;
+}
+
+#estado {
+    width: 500px;
+    height: 140px;
+    background-color: yellow;
+    float: right;
+}
+
+#ufg {
+    width: 300px;
+    height: 200px;
+    background-color: yellow;
+    text-align: left;
+    float: left;
+}
+
+#textoEstado {
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-top: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+}
+
+#imagemEstado {
+    width: 211px;
+    margin-right: 0px;
+    float: right;
+}
