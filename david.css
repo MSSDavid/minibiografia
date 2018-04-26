@@ -39,7 +39,6 @@ h1 {
 #ufg {
     width: 300px;
     height: 200px;
-    background-color: yellow;
     text-align: left;
     float: left;
 }
@@ -57,4 +56,25 @@ h1 {
     width: 211px;
     margin-right: 0px;
     float: right;
+}
+
+#cursoIMG {
+    float: left;
+}
+
+#textoCurso {
+    margin: 0 auto;
+    margin-top: -146px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    color: white;
+}
+
+#blu {
+    width: 300px;
+    height: 600px;
 }
